@@ -1,0 +1,13 @@
+﻿<Application x:Class="Fed1isp11_17.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Fed1isp11_17"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <BitmapImage x:Key="Shum" 
+                     UriSource="C:\Users\user\Desktop\шум.jpg" />
+
+        <BitmapImage x:Key="Auto"
+                     UriSource="C:\Users\user\Desktop\auto.png"/>
+    </Application.Resources>
+</Application>
